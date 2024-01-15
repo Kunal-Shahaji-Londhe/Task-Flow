@@ -22,7 +22,7 @@ Follow these simple steps to get TaskFlow up and running on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Task-Flow.git
+   git clone https://github.com/Kunal-Shahaji-Londhe/Task-Flow.git
    ```
 
 2. Navigate to the project directory:
